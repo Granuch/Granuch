@@ -16,7 +16,6 @@ I'm an intermediate C# developer, continuously refining my skills and diving dee
 
 ### 👯 I’m looking to collaborate on
 - Open-source C# libraries or tools  
-- Web applications using **ASP.NET Core**  
 - Projects involving **LINQ** and **SQL** for database integration  
 
 ### 🤔 I’m looking for help with
