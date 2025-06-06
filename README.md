@@ -30,7 +30,6 @@ I'm an intermediate C# developer, continuously refining my skills and diving dee
 
 ### 📫 How to reach me
 - **Email**: dylopyli@gmail.com   
-- **GitHub**: [My GitHub Profile]("https://github.com/Granuch")
 
 ### 😄 Pronouns
 - He/Him  
