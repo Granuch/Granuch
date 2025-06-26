@@ -5,7 +5,7 @@ I'm an intermediate C# developer, continuously refining my skills and diving dee
 ### 🔭 I’m currently working on
 - A multi-project solution with **file I/O operations** and business logic separation  
 - Implementing **design patterns** (Factory, Singleton, Observer)  
-- Exploring Windows Forms
+- Exploring Windows Forms, ASP.NET MVC, WPF
 
 ### 🌱 I’m currently learning
 - **Dependency Injection (DI)** and **Inversion of Control (IoC)**  
