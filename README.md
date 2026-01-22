@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 
 I'm an intermediate C# developer, continuously refining my skills and diving deeper into advanced programming concepts. I enjoy building efficient applications, optimizing code, and contributing to meaningful projects. 
 
@@ -7,32 +7,32 @@ I'm an intermediate C# developer, continuously refining my skills and diving dee
 - Implementing **design patterns** (Factory, Singleton, Observer)  
 - Exploring Windows Forms, ASP.NET MVC, WPF
 
-### 🌱 I’m currently learning
+###  I’m currently learning
 - **Dependency Injection (DI)** and **Inversion of Control (IoC)**  
 - **Asynchronous programming** with async/await  
 - **Entity Framework Core** for data management  
 - Best practices for **clean architecture**  
 
-### 👯 I’m looking to collaborate on
+###  I’m looking to collaborate on
 - Open-source C# libraries or tools  
 - Projects involving **LINQ** and **SQL** for database integration  
 
-### 🤔 I’m looking for help with
+###  I’m looking for help with
 - Advanced **multithreading** and **parallel programming**  
 - Optimizing performance for large-scale applications  
 - Implementing **microservices** architecture  
 
-### 💬 Ask me about
+###  Ask me about
 - Object-Oriented Programming (OOP) in C# (polymorphism, inheritance)  
 - **Error handling** and **logging** in .NET applications  
 - Writing maintainable code using **SOLID principles**  
   
 
-### 📫 How to reach me
+###  How to reach me
 - **Email**: dylopyli@gmail.com   
 
-### 😄 Pronouns
+###  Pronouns
 - He/Him  
 
-### ⚡ Fun fact
+###  Fun fact
 I love exploring **cybersecurity** concepts and enjoy following **eSports**. 
