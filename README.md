@@ -2,7 +2,7 @@
 
 I'm an intermediate C# developer, continuously refining my skills and diving deeper into advanced programming concepts. I enjoy building efficient applications, optimizing code, and contributing to meaningful projects. 
 
-### 🔭 I’m currently working on
+###  I’m currently working on
 - A multi-project solution with **file I/O operations** and business logic separation  
 - Implementing **design patterns** (Factory, Singleton, Observer)  
 - Exploring Windows Forms, ASP.NET MVC, WPF
