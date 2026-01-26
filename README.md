@@ -1,38 +1,66 @@
 ## Hi there 
 
-I'm an intermediate C# developer, continuously refining my skills and diving deeper into advanced programming concepts. I enjoy building efficient applications, optimizing code, and contributing to meaningful projects. 
+I'm an intermediate C# developer, continuously refining my skills and diving deeper into advanced programming concepts. I enjoy building efficient applications, optimizing code, and contributing to meaningful projects.
 
-###  I’m currently working on
-- A multi-project solution with **file I/O operations** and business logic separation  
-- Implementing **design patterns** (Factory, Singleton, Observer)  
-- Exploring Windows Forms, ASP.NET MVC, WPF
+### I'm currently working on
 
-###  I’m currently learning
-- **Dependency Injection (DI)** and **Inversion of Control (IoC)**  
-- **Asynchronous programming** with async/await  
-- **Entity Framework Core** for data management  
-- Best practices for **clean architecture**  
+- Multi-tier Windows Forms applications with **complex database architectures**
+- **Microservices-based systems** using ASP.NET Core with Docker containerization
+- WPF applications implementing **MVVM pattern** and **Entity Framework Core**
+- Database-driven applications with **normalized schemas** and advanced SQL queries
+- **RESTful API development** with JWT authentication and role-based access control
+- Applications utilizing **design patterns** (Repository, Unit of Work, Factory, Singleton, Result Pattern)
 
-###  I’m looking to collaborate on
-- Open-source C# libraries or tools  
-- Projects involving **LINQ** and **SQL** for database integration  
+### I'm currently learning
 
-###  I’m looking for help with
-- Advanced **multithreading** and **parallel programming**  
-- Optimizing performance for large-scale applications  
-- Implementing **microservices** architecture  
+- **Dependency Injection (DI)** and **Inversion of Control (IoC)** - advanced patterns and container usage
+- **Asynchronous programming** with async/await and Task Parallel Library
+- **Entity Framework Core** - query optimization, performance tuning, and advanced configurations
+- **Clean architecture** principles and practical implementation
+- **Docker** containerization and orchestration with docker-compose
+- **Microservices architecture** - service communication, API gateways, and distributed systems
+- **Performance optimization** techniques for database queries and application logic
 
-###  Ask me about
-- Object-Oriented Programming (OOP) in C# (polymorphism, inheritance)  
-- **Error handling** and **logging** in .NET applications  
-- Writing maintainable code using **SOLID principles**  
-  
+### I'm looking to collaborate on
 
-###  How to reach me
-- **Email**: dylopyli@gmail.com   
+- Open-source C# libraries or developer tools
+- Projects involving **LINQ** and **SQL** for complex database integration
+- Web APIs built with **ASP.NET Core**
+- Enterprise applications with sophisticated business logic
+- Database design and optimization projects
+- Applications requiring **microservices architecture**
 
-###  Pronouns
-- He/Him  
+### I'm looking for help with
 
-###  Fun fact
-I love exploring **cybersecurity** concepts and enjoy following **eSports**. 
+- Advanced **multithreading** and **parallel programming** patterns
+- Performance optimization strategies for large-scale applications
+- **Microservices** architecture - advanced patterns, service discovery, circuit breakers
+- Cloud deployment and DevOps practices (Azure, AWS)
+- CI/CD pipeline implementation and automation
+- Distributed systems design and data consistency patterns
+
+### Ask me about
+
+- Object-Oriented Programming (OOP) in C# - polymorphism, inheritance, encapsulation, abstraction
+- **Database design** - normalization, indexing strategies, query optimization
+- **SQL** - complex queries, JOINs, aggregations, stored procedures
+- **Error handling** and **logging** in .NET applications
+- Writing maintainable code using **SOLID principles**
+- **Design patterns** - practical implementation in real-world scenarios
+- **Windows Forms** development and dynamic UI generation
+- **WPF** and MVVM architecture
+- **Entity Framework Core** - migrations, relationships, performance considerations
+- **ASP.NET Core** - API development, authentication, authorization
+- **Docker** basics and containerization
+
+### How to reach me
+
+- **Email**: dylopyli@gmail.com
+
+### Pronouns
+
+- He/Him
+
+### Fun fact
+
+I actively explore **cybersecurity** concepts including secure authentication mechanisms, SQL injection prevention, and secure coding practices. I also follow **eSports** competitively.
