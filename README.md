@@ -17,7 +17,7 @@ I'm an intermediate C# developer, continuously refining my skills and diving dee
 - **Asynchronous programming** with async/await and Task Parallel Library
 - **Entity Framework Core** - query optimization, performance tuning, and advanced configurations
 - **Clean architecture** principles and practical implementation
-- **Docker** containerization and orchestration with docker-compose
+- **Docker** containerization and orchestration with Docker Compose
 - **Microservices architecture** - service communication, API gateways, and distributed systems
 - **Performance optimization** techniques for database queries and application logic
 
@@ -55,7 +55,11 @@ I'm an intermediate C# developer, continuously refining my skills and diving dee
 
 ### How to reach me
 
-- **Email**: dylopyli@gmail.com
+ [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:dylopyli@gmail.com)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/maksym-skovorinskyi)
+ [![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode)](https://leetcode.com/u/Granuch/)
+ [![Telegram](https://img.shields.io/badge/Telegram-@Granuch-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Granuch)
+
 
 ### Pronouns
 
@@ -63,4 +67,4 @@ I'm an intermediate C# developer, continuously refining my skills and diving dee
 
 ### Fun fact
 
-I actively explore **cybersecurity** concepts including secure authentication mechanisms, SQL injection prevention, and secure coding practices. I also follow **eSports** competitively.
+I actively explore **cybersecurity** concepts, including secure authentication mechanisms, SQL injection prevention, and secure coding practices. I also follow **eSports** competitively.
