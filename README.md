@@ -58,7 +58,7 @@ I'm an intermediate C# developer, continuously refining my skills and diving dee
  [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](https://mail.google.com/mail/?view=cm&to=maksymskovorinskyi@gmail.com)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/maksym-skovorinskyi)
  [![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode)](https://leetcode.com/u/Granuch/)
- [![Telegram](https://img.shields.io/badge/Telegram-@Granuch-2CA5E0?logo=telegram&logoColor=white)](https://t.me/GranuchMS)
+ [![Telegram](https://img.shields.io/badge/Telegram-@GranuchMS-2CA5E0?logo=telegram&logoColor=white)](https://t.me/GranuchMS)
 
 ### Fun fact
 
